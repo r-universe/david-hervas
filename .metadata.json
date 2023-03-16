@@ -1,0 +1,14 @@
+[
+  {
+    "package": "clickR",
+    "oncran": true
+  },
+  {
+    "package": "repmod",
+    "oncran": true
+  },
+  {
+    "package": "sNPLS",
+    "oncran": true
+  }
+]
