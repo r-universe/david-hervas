@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "clickR"]
 	path = clickR
 	url = https://github.com/david-hervas/clickr
-	shallow = true
-	registered = true
 [submodule "repmod"]
 	path = repmod
 	url = https://github.com/david-hervas/repmod
-	shallow = true
-	registered = true
 [submodule "sNPLS"]
 	path = sNPLS
 	url = https://github.com/david-hervas/snpls
-	shallow = true
-	registered = true
